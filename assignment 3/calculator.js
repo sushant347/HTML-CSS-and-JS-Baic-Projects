@@ -1,4 +1,3 @@
-// Implementation of arrow function is compulsory in this assignment
 
 
 export let add = (x, y) => x + y;
