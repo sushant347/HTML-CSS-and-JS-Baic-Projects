@@ -24,7 +24,7 @@ $(document).ready(function() {
         let opValue = $operator.val();
 
         // Validation Logic from guidelines (adapted for jQuery variables)
-        // Checks if x is invalid (NaN) AND x is not exactly number 0
+        
         if (!x && x !== 0) {
             alert("Plz enter num1");
             return;

@@ -1,6 +1,6 @@
-/* --- Custom CSS (Required by Guideline) --- */
+
 body {
-    background-color: #eef2f3; /* Light grey-blue background */
+    background-color: #eef2f3; 
     font-family: 'Arial', sans-serif;
     display: flex;
     flex-direction: column;
@@ -13,7 +13,6 @@ h1 {
     margin-bottom: 20px;
 }
 
-/* --- Assignment Specific CSS --- */
 section {
     display: flex;
     flex-direction: column;
